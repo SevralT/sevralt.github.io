@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Обо мне
+permalink: /about-me/
 ---
 
-Some information about you!
+## Кто Я?
 
-### More Information
+Я человек! xD. Ну а если серьёзно, меня зовут Александр. Мне 14 лет. Я живу в Украине. Я веб и Android разработчик.
 
-A place to include any other types of information that you'd like to include about yourself.
+## Мои навыки
 
-### Contact me
+Я знаю HTML, и сейчас учу CSS и HTML! Так же я разрабатываю прошивку Pixel Experience для моего телефона Это мой первый web-сайт созданный с нуля! Я один его создавал несколько дней. Тут я буду практиковать свои навыки WEB!
 
-[email@domain.com](mailto:email@domain.com)
+## Мои контакты
+
+[Моя почта](mailto:alex.chycherin56@gmail.com)
+
+[Мой Telegram](https://t.me/sevralt)
